@@ -3,7 +3,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'acumin-pro', sans-serif;
   overflow: hidden;
   overflow-y: scroll;
   background-color: #fff;
@@ -130,7 +130,7 @@ e
   padding: 20px 0;
 }
 .fh5co-banner-text-box .quote-box h2 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'acumin-pro', sans-serif;
   font-weight: 700;
   color: #fff;
   font-size: 40px;
@@ -201,14 +201,14 @@ e
 } */
 .fh5co-network h2, .fh5co-about-us h2 {
   color: #fff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'acumin-pro', sans-serif;
   font-weight: 500;
   font-size: 40px;
   margin-bottom: 0;
 }
 .fh5co-network h4, .fh5co-about-us h4, .fh5co-network h5, .fh5co-about-us h5, .fh5co-network p, .fh5co-about-us p {
   color: #fff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'acumin-pro', sans-serif;
   font-weight: 300;
 }
 .fh5co-network hr, .fh5co-about-us hr {
@@ -230,7 +230,7 @@ e
 }
 .fh5co-about-us p {
   color: #fff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'acumin-pro', sans-serif;
   font-weight: normal;
 }
 .fh5co-about-us hr {
@@ -360,7 +360,7 @@ e
   color: #fff;
 }
 .fh5co-content-box .gallery .card .card-body p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'acumin-pro', sans-serif;
   font-weight: 700;
 }
 .small-image {
@@ -457,7 +457,7 @@ footer .footer1 p {
 }
 footer .footer2 h4 {
   color: #ff8013;
-  font-family: 'Lato', sans-serif;
+  font-family: 'acumin-pro', sans-serif;
   font-weight: 700;
   text-align: center;
   margin: 20px auto;
