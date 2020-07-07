@@ -100,6 +100,13 @@ a, a:hover {
 }
  .round-frame {
   position: relative;
+  width: 200px;
+  height: 197px;
+  border: solid 4px #df6700;
+  border-radius: 200px;
+  margin-top: 100px;
+  margin-left: 100px;
+  background-color: #fff;
   box-sizing: content-box;
 
 }
@@ -111,7 +118,7 @@ a, a:hover {
 } 
 .round-frame img {
   width: 100%;
-  height: auto;
+  height: 100%;
   position: absolute;
   border-radius: 200px;
   border: solid 4px #df6700;67283472+gjcreativity@users.noreply.github.com
