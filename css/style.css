@@ -100,13 +100,6 @@ a, a:hover {
 }
  .round-frame {
   position: relative;
-  width: 200px;
-  height: 197px;
-  border: solid 4px #df6700;
-  border-radius: 200px;
-  margin-top: 100px;
-  margin-left: 100px ;
-  background-color: #fff;
   box-sizing: content-box;
 
 }
@@ -120,7 +113,7 @@ a, a:hover {
   width: 100%;
   height: auto;
   position: absolute;
-  border-radius: 50px;
+  border-radius: 200px;
   border: solid 4px #df6700;67283472+gjcreativity@users.noreply.github.com
   background-color: #fff;https://github.com/gjcreativity/gjcreativity.github.io.git
 
