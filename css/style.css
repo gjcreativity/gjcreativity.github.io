@@ -1,9 +1,4 @@
-/*
- * Fox by FreeHTML5.co
- * Twitter: https://twitter.com/fh5co
- * Facebook: https://fb.com/fh5co
- * URL: https://freehtml5.co
- */
+
 html {
   scroll-behavior: smooth;
 }
@@ -108,7 +103,6 @@ a, a:hover {
   margin-left: 100px;
   background-color: #fff;
   box-sizing: content-box;
-
 }
 @media (max-width: 767px) {
   .round-frame{
@@ -123,7 +117,6 @@ a, a:hover {
   border-radius: 200px;
   border: solid 4px #df6700;67283472+gjcreativity@users.noreply.github.com
   background-color: #fff;https://github.com/gjcreativity/gjcreativity.github.io.git
-
 }
 e
 .fh5co-banner-text-box {
@@ -144,7 +137,7 @@ e
 }
 .fh5co-banner-text-box .quote-box h2 span {
   color: #fff;
-  font-size: 34px;
+  font-size: 22px;
 }
 .fh5co-banner-text-box .quote-box::before {
   content: "";
